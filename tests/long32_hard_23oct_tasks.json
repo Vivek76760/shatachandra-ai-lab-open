@@ -1,0 +1,226 @@
+[
+ {
+  "n": 1,
+  "q": "Write 250 words on Mars",
+  "target": 250,
+  "kw": "Mars",
+  "tag": ""
+ },
+ {
+  "n": 2,
+  "q": "Write 300 words on Mercury",
+  "target": 300,
+  "kw": "Mercury",
+  "tag": "ambiguous"
+ },
+ {
+  "n": 3,
+  "q": "Write 200 words on Java",
+  "target": 200,
+  "kw": "Java",
+  "tag": "ambiguous"
+ },
+ {
+  "n": 4,
+  "q": "Write 250 words on Georgia",
+  "target": 250,
+  "kw": "Georgia",
+  "tag": "ambiguous"
+ },
+ {
+  "n": 5,
+  "q": "Write 250 words on Apple",
+  "target": 250,
+  "kw": "Apple",
+  "tag": "ambiguous"
+ },
+ {
+  "n": 6,
+  "q": "Write 300 words on Python",
+  "target": 300,
+  "kw": "Python",
+  "tag": "ambiguous"
+ },
+ {
+  "n": 7,
+  "q": "Write 250 words on Srinivasa Ramanujan",
+  "target": 250,
+  "kw": "Ramanujan",
+  "tag": "person"
+ },
+ {
+  "n": 8,
+  "q": "Write 250 words on Sarojini Naidu",
+  "target": 250,
+  "kw": "Naidu",
+  "tag": "person"
+ },
+ {
+  "n": 9,
+  "q": "Write 150 words on Kolleru Lake",
+  "target": 150,
+  "kw": "Kolleru",
+  "tag": "obscure"
+ },
+ {
+  "n": 10,
+  "q": "Write 200 words on Jantar Mantar",
+  "target": 200,
+  "kw": "Jantar",
+  "tag": "obscure"
+ },
+ {
+  "n": 11,
+  "q": "Write 400 words on the Indian Constitution",
+  "target": 400,
+  "kw": "Constitution",
+  "tag": ""
+ },
+ {
+  "n": 12,
+  "q": "Write 600 words on World War II",
+  "target": 600,
+  "kw": "War",
+  "tag": ""
+ },
+ {
+  "n": 13,
+  "q": "Write 100 words on Chandrayaan-3",
+  "target": 100,
+  "kw": "Chandrayaan",
+  "tag": "obscure"
+ },
+ {
+  "n": 14,
+  "q": "Write 250 words on Shatachandra Shield",
+  "target": 250,
+  "kw": "",
+  "tag": "notfound"
+ },
+ {
+  "n": 15,
+  "q": "Write 250 words on Zorblax Quantum Bridge",
+  "target": 250,
+  "kw": "",
+  "tag": "notfound"
+ },
+ {
+  "n": 16,
+  "q": "Explain the French Revolution in detail",
+  "target": 250,
+  "kw": "Revolution",
+  "tag": ""
+ },
+ {
+  "n": 17,
+  "q": "Write 300 words on the history of Hyderabad",
+  "target": 300,
+  "kw": "Hyderabad",
+  "tag": ""
+ },
+ {
+  "n": 18,
+  "q": "Write 250 words on the Battle of Plassey",
+  "target": 250,
+  "kw": "Plassey",
+  "tag": ""
+ },
+ {
+  "n": 19,
+  "q": "Write 250 words on Photosynthesis",
+  "target": 250,
+  "kw": "photosynthesis",
+  "tag": ""
+ },
+ {
+  "n": 20,
+  "q": "Write 300 words on Mahatma Gandhi",
+  "target": 300,
+  "kw": "Gandhi",
+  "tag": "person"
+ },
+ {
+  "n": 21,
+  "q": "Write 250 words on the Taj Mahal",
+  "target": 250,
+  "kw": "Taj Mahal",
+  "tag": ""
+ },
+ {
+  "n": 22,
+  "q": "Write 250 words on Bitcoin",
+  "target": 250,
+  "kw": "Bitcoin",
+  "tag": ""
+ },
+ {
+  "n": 23,
+  "q": "ताजमहल पर 200 शब्दों में निबंध लिखिए",
+  "target": 200,
+  "kw": "ताजमहल",
+  "tag": "hi"
+ },
+ {
+  "n": 24,
+  "q": "गंगा नदी पर 200 शब्दों में निबंध लिखिए",
+  "target": 200,
+  "kw": "गंगा",
+  "tag": "hi"
+ },
+ {
+  "n": 25,
+  "q": "मंगल ग्रह पर 200 शब्दों में निबंध लिखिए",
+  "target": 200,
+  "kw": "मंगल",
+  "tag": "hi"
+ },
+ {
+  "n": 26,
+  "q": "श्रीनिवास रामानुजन पर 200 शब्दों में निबंध लिखिए",
+  "target": 200,
+  "kw": "रामानुजन",
+  "tag": "hi person"
+ },
+ {
+  "n": 27,
+  "q": "भारत के संविधान पर 200 शब्दों में निबंध लिखिए",
+  "target": 200,
+  "kw": "संविधान",
+  "tag": "hi"
+ },
+ {
+  "n": 28,
+  "q": "शतचन्द्र शील्ड पर 200 शब्दों में निबंध लिखिए",
+  "target": 200,
+  "kw": "",
+  "tag": "hi notfound"
+ },
+ {
+  "n": 29,
+  "q": "తాజ్ మహల్ గురించి 250 పదాలలో వ్యాసం రాయండి",
+  "target": 250,
+  "kw": "తాజ్",
+  "tag": "te"
+ },
+ {
+  "n": 30,
+  "q": "తెలంగాణ గురించి 250 పదాలలో వ్యాసం రాయండి",
+  "target": 250,
+  "kw": "తెలంగాణ",
+  "tag": "te"
+ },
+ {
+  "n": 31,
+  "q": "హైదరాబాదు గురించి 250 పదాలలో వ్యాసం రాయండి",
+  "target": 250,
+  "kw": "హైదరాబాద",
+  "tag": "te"
+ },
+ {
+  "n": 32,
+  "q": "పులి గురించి 250 పదాలలో వ్యాసం రాయండి",
+  "target": 250,
+  "kw": "పులి",
+  "tag": "te"
+ }
+]

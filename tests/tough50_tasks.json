@@ -1,0 +1,252 @@
+[
+ {
+  "n": 1,
+  "task": "A fence is 100 metres long, with a post at the start and then one every 5 metres, including a post at the end. How many posts are needed?",
+  "expected": "21"
+ },
+ {
+  "n": 2,
+  "task": "A ribbon is 80 cm long. Every day half of what is left is cut off. How long is the ribbon after 5 days?",
+  "expected": "2.5"
+ },
+ {
+  "n": 3,
+  "task": "A ball is dropped from 100 metres and each bounce reaches 50 percent of the previous height. How high is the 5th bounce?",
+  "expected": "3.125"
+ },
+ {
+  "n": 4,
+  "task": "A person climbs 2 steps in the first minute, 3 in the second, 4 in the third, and so on, one more each minute. How many steps in total after 10 minutes?",
+  "expected": "65"
+ },
+ {
+  "n": 5,
+  "task": "On day 1 you get 1 grain and each day the number you get doubles. How many grains in total have you got after 10 days?",
+  "expected": "1023"
+ },
+ {
+  "n": 6,
+  "task": "You save 500 rupees in month 1 and 50 rupees more each month than the month before. How much have you saved in total after 12 months?",
+  "expected": "9300"
+ },
+ {
+  "n": 7,
+  "task": "A machine worth 100000 rupees loses 20 percent of its current value each year. What is it worth after 3 years?",
+  "expected": "51200"
+ },
+ {
+  "n": 8,
+  "task": "A sequence starts with 2, 3 and each next term is the sum of the previous two. What is the 10th term?",
+  "expected": "144"
+ },
+ {
+  "n": 9,
+  "task": "A book has 300 pages. A student reads 12 pages on day 1 and 3 pages more each day than the day before. On which day does the student finish the book?",
+  "expected": "12"
+ },
+ {
+  "n": 10,
+  "task": "A colony has 500 members and grows by 10 percent each month. After how many whole months does it first exceed 1000?",
+  "expected": "8"
+ },
+ {
+  "n": 11,
+  "task": "A shirt costs 800 rupees after a 20 percent discount. What was the original price?",
+  "expected": "1000"
+ },
+ {
+  "n": 12,
+  "task": "The price of a phone rises from 80 to 100 thousand rupees. By what percentage did it increase?",
+  "expected": "25"
+ },
+ {
+  "n": 13,
+  "task": "A trader buys an item for 640 rupees and sells it for 800 rupees. What is the profit percentage?",
+  "expected": "25"
+ },
+ {
+  "n": 14,
+  "task": "A bill of 2360 rupees includes 18 percent GST. How much is the GST amount?",
+  "expected": "360"
+ },
+ {
+  "n": 15,
+  "task": "Two successive discounts of 20 percent and 10 percent are given on a price of 5000 rupees. What is the final price and the overall discount percentage?",
+  "expected": "3600|28"
+ },
+ {
+  "n": 16,
+  "task": "In a class of 50, 60 percent are girls. Of the boys, 25 percent wear glasses. How many boys wear glasses?",
+  "expected": "5"
+ },
+ {
+  "n": 17,
+  "task": "A number is increased by 20 percent and then decreased by 20 percent. If it started at 500, what is the final number?",
+  "expected": "480"
+ },
+ {
+  "n": 18,
+  "task": "A population falls from 80000 to 72000. What is the percentage decrease?",
+  "expected": "10"
+ },
+ {
+  "n": 19,
+  "task": "How many days are there between 12 January 2026 and 30 September 2026?",
+  "expected": "261"
+ },
+ {
+  "n": 20,
+  "task": "What date is 100 days after 20 October 2026? Give it in YYYY-MM-DD format.",
+  "expected": "2027-01-28"
+ },
+ {
+  "n": 21,
+  "task": "On what day of the week was 15 August 1947?",
+  "expected": "Friday"
+ },
+ {
+  "n": 22,
+  "task": "How many full weeks are there between 1 January 2026 and 31 October 2026?",
+  "expected": "43"
+ },
+ {
+  "n": 23,
+  "task": "A train leaves at 22:45 and arrives at 06:20 the next day. How many hours and minutes is the journey?",
+  "expected": "7|35"
+ },
+ {
+  "n": 24,
+  "task": "How many days are left in 2026 after 20 October 2026?",
+  "expected": "72"
+ },
+ {
+  "n": 25,
+  "task": "How many prime numbers are there below 100?",
+  "expected": "25"
+ },
+ {
+  "n": 26,
+  "task": "What is the sum of the digits of 2 raised to the power 50?",
+  "expected": "76"
+ },
+ {
+  "n": 27,
+  "task": "How many numbers from 1 to 500 are divisible by both 3 and 5?",
+  "expected": "33"
+ },
+ {
+  "n": 28,
+  "task": "What is the smallest number divisible by every number from 1 to 15?",
+  "expected": "360360"
+ },
+ {
+  "n": 29,
+  "task": "What is the largest prime factor of 13195?",
+  "expected": "29"
+ },
+ {
+  "n": 30,
+  "task": "List all the perfect numbers below 1000.",
+  "expected": "6|28|496"
+ },
+ {
+  "n": 31,
+  "task": "How many trailing zeros does 50 factorial have?",
+  "expected": "12"
+ },
+ {
+  "n": 32,
+  "task": "What is the sum of all the 2-digit numbers whose digits add up to 9?",
+  "expected": "486"
+ },
+ {
+  "n": 33,
+  "task": "Count the words with more than 4 letters in 'zero trust never trusts anything and verifies everything'.",
+  "expected": "6"
+ },
+ {
+  "n": 34,
+  "task": "Which letter appears most often in 'shatachandra', and how many times?",
+  "expected": "a|4"
+ },
+ {
+  "n": 35,
+  "task": "Make an acronym from the first letters of each word in 'post quantum cryptography standard', in capital letters.",
+  "expected": "PQCS"
+ },
+ {
+  "n": 36,
+  "task": "Shift every letter of 'shield' forward by 3 places in the alphabet (a becomes d), wrapping around after z.",
+  "expected": "vklhog"
+ },
+ {
+  "n": 37,
+  "task": "Remove duplicate letters from 'programming', keeping the first occurrence of each letter.",
+  "expected": "progamin"
+ },
+ {
+  "n": 38,
+  "task": "Is 'A man, a plan, a canal: Panama' a palindrome if we ignore spaces, commas, colons and case?",
+  "expected": "True"
+ },
+ {
+  "n": 39,
+  "task": "How many times does the pair 'th' appear in 'the three thin things thought through'?",
+  "expected": "6"
+ },
+ {
+  "n": 40,
+  "task": "How many words in 'to be or not to be that is the question' start with a vowel?",
+  "expected": "2"
+ },
+ {
+  "n": 41,
+  "task": "What is the average of 12, 45, 7, 23, 89, 34 after removing the largest number?",
+  "expected": "24.2"
+ },
+ {
+  "n": 42,
+  "task": "Find the mode of 4, 7, 4, 9, 7, 4, 2.",
+  "expected": "4"
+ },
+ {
+  "n": 43,
+  "task": "Find the median of 15, 3, 9, 12, 21, 6.",
+  "expected": "10.5"
+ },
+ {
+  "n": 44,
+  "task": "Sort the words 'banana fig apple kiwi cherry' by length, shortest first, and for equal lengths alphabetically.",
+  "expected": "fig|kiwi|apple|banana|cherry"
+ },
+ {
+  "n": 45,
+  "task": "In the list 5, 12, 8, 20, 3, 15, at which position (counting from 1) is the largest number, and what is the sum of the numbers before it?",
+  "expected": "4|25"
+ },
+ {
+  "n": 46,
+  "task": "From the numbers 1 to 30, what is the sum of those that are divisible by 2 but not by 3?",
+  "expected": "150"
+ },
+ {
+  "n": 47,
+  "task": "Find the compound interest on 20000 rupees at 10 percent per year, compounded half-yearly, for 1 year.",
+  "expected": "2050"
+ },
+ {
+  "n": 48,
+  "task": "What is the difference between compound interest (compounded yearly) and simple interest on 10000 rupees at 8 percent for 3 years?",
+  "expected": "197.12"
+ },
+ {
+  "n": 49,
+  "task": "A loan of 100000 rupees at 12 percent per year is repaid in 12 equal monthly instalments. Find the monthly EMI, rounded to 2 decimals.",
+  "expected": "8884.88"
+ },
+ {
+  "n": 50,
+  "task": "You invest 5000 rupees at the start of each year for 3 years at 10 percent per year compounded yearly. What is the total value at the end of year 3?",
+  "expected": "18205"
+ }
+]
