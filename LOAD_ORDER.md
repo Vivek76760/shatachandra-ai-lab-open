@@ -1,6 +1,6 @@
 # Load order (Kaggle, accelerator GPU T4 x2, Internet on)
 
-Run these cells one at a time, in order. Tested from a clean start on Kaggle (GPU T4 x2) on 23 October 2026 with patches v28r to v28z: a fact question, a calculation question and a Hindi long answer all worked. The two newest patches (v28aa and v28ab) were tested offline and in a working session, but not yet from a clean start. Other paths (English and Telugu long answers, file questions) were not re-tested from a clean start either, so please report any problem as an issue.
+Run these cells one at a time, in order. Tested from a clean start on Kaggle (GPU T4 x2) on 23 October 2026 with all 11 patches: a fact question, a calculation question, a Hindi long answer and an invented topic (which correctly shows a "not fully verified" line) all worked. The cleanup of leaked tool text (patch v28ab) was tested offline only. Other paths (English and Telugu long answers, file questions) were not re-tested from a clean start, so please report any problem as an issue.
 
 ## 1. Get the files
 
