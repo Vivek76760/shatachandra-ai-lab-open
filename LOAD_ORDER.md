@@ -1,6 +1,6 @@
 # Load order (Kaggle, accelerator GPU T4 x2, Internet on)
 
-Run these cells one at a time, in order. This guide has not yet been tested from a clean start, so please report any problem as an issue.
+Run these cells one at a time, in order. Tested from a clean start on Kaggle (GPU T4 x2) on 23 October 2026: a fact question, a calculation question and a Hindi long answer all worked. Other paths (English and Telugu long answers, file questions) were not re-tested from a clean start, so please report any problem as an issue.
 
 ## 1. Get the files
 
