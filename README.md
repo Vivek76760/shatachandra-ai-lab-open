@@ -49,7 +49,7 @@ Please have a native speaker check every answer. Answer keys written by someone 
 Rules: never commit secrets or kb.json, and report test results honestly, including failures.
 
 ## Support the project
-The code is free under Apache 2.0, and a star on the repo is the best free support. If this project helped you and you want to support the work with money, a donation link will be added here soon. Donations are welcome but never required.
+This is a free, open-source project. The best support is a star on the repo, a bug report, or help with a new language: a test set checked by a native speaker is worth more than money. There is no donation link at the moment.
 
 ## Co-founders and partners
 If you want to help turn this into a real product or a company, for example for schools, coaching centres or tutoring in Indian languages, we would like to hear from you. Open an issue titled "Co-founder:" with a short note about who you are and what you can build, teach or sell.
