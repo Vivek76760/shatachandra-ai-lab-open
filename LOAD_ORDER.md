@@ -1,6 +1,6 @@
 # Load order (Kaggle, accelerator GPU T4 x2, Internet on)
 
-Run these cells one at a time, in order. Tested from a clean start on Kaggle (GPU T4 x2) on 23 October 2026: a fact question, a calculation question and a Hindi long answer all worked. Other paths (English and Telugu long answers, file questions) were not re-tested from a clean start, so please report any problem as an issue.
+Run these cells one at a time, in order. Tested from a clean start on Kaggle (GPU T4 x2) on 23 October 2026 with patches v28r to v28z: a fact question, a calculation question and a Hindi long answer all worked. The two newest patches (v28aa and v28ab) were tested offline and in a working session, but not yet from a clean start. Other paths (English and Telugu long answers, file questions) were not re-tested from a clean start either, so please report any problem as an issue.
 
 ## 1. Get the files
 
@@ -45,11 +45,14 @@ exec(compile(code, "agent_v28q_colab.py", "exec"), globals())
 
 ## 6. Load the patches, in this order
 
+The order matters. Do not sort the files by name.
+
 ```
 patches = [
     "agent_v28r_calendar_patch.py", "agent_v28s_wiki_patch.py", "agent_v28t_latex_patch.py",
     "agent_v28u_caps_patch.py", "agent_v28v_warnfirst_patch.py", "agent_v28w_longreq_patch.py",
     "agent_v28x_hititle_patch.py", "agent_v28y_pron_patch.py", "agent_v28z_kbguard_patch.py",
+    "agent_v28aa_notverified_patch.py", "agent_v28ab_leak_patch.py",
 ]
 for p in patches:
     exec(compile(open("/kaggle/working/" + p, encoding="utf-8").read(), p, "exec"), globals())
